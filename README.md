@@ -16,11 +16,11 @@ This will provide data to determine what the "ideal" runtime for a movie in a ce
 
 The project is organized as follows:
 
-- **Data Exploration:** Jupyter notebooks or scripts to explore the dataset.
+- **Data Exploration:** Jupyter notebooks to explore the dataset.
 
-- **Analysis:** Using Python with the  Pandas package to clean the data.
+- **Analysis:** Using Python with the Pandas package to clean the data.
 
-- **Visualizations :** Using Matplotlib and Plotly to visualize my findings.
+- **Visualizations :** Using Tableau to visualize my findings.
 
 ## Features
 
