@@ -26,9 +26,9 @@ The project is organized as follows:
 
   | Feature        | Description                           |
   |----------------|---------------------------------------|
-  | Read TWO data files| Used 2 CSV files from kaggle          |
-  | Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.      | Cleaned my data and merged them with pandas. The calculated stats from various data points |
-  | Make 3 matplotlib, and Plotly | Made various plots to show off my findings. |
+  | Read TWO data files| Used 2 CSV files from kaggle.          |
+  | Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.      | Cleaned my data and merged them with pandas. The calculated stats from various data points. |
+  | Make a Tableau dashboard to display your data | Made a Tableau dashboard. |
   | Utilize a virtual environment      | Made a venv for this project to keep my computer clean. |
   | Notate your code with markdown cells in Jupyter Notebook | Included in my code, you will find clear notes describing each code block. |
 
