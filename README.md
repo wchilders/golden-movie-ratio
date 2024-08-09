@@ -32,6 +32,26 @@ The project is organized as follows:
   | Utilize a virtual environment      | Made a venv for this project to keep my computer clean. |
   | Notate your code with markdown cells in Jupyter Notebook | Included in my code, you will find clear notes describing each code block. |
 
+## Getting Started
+
+To run this project, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-username/your-project.git`
+2. Install the necessary dependencies: `pip install -r requirements.txt`
+3. Open the Jupyter notebook gmr.ipynb
+4. Follow instructions at top of notebook and view results at the bottom.
+
+*Tip: If you would like to run the program multiple times to create multiple DataFrames for each genre, make sure to edit the name of the CSV file the filtered_df is being written to anywhere it appears (ex: run program once to filtered_data.csv, then change CSV name to filtered_data1.csv and run it again on a different genre.)
+
+## Findings
+
+Here is the link to my Tableau dashboard [Tableau](https://public.tableau.com/app/profile/walker.childers/viz/GoldenMovieRatio/GoldenRatioDashboard?publish=yes)
+
+In my findings you'll see a dashboard with data for the Golden Movie Ratio in Dramas, Comedies, and Horror films.
+1. For Dramas, the highest rated films had an avg runtime of 142 min and a rating of 9.3
+2. For Horrors, the highest rated films had an avg runtime of 122 min and a rating of 8.1
+3. For Comedies, the highest rated films had an avg runtime of 120 min and a rating of 9.5
+
 ###  Virtual Environment Instructions
 ---
 1. After you have cloned the repo to your machine, navigate to the project 
